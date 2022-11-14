@@ -12,7 +12,6 @@ const todoInput = document.getElementById("todo-name");
 let amountOfItems = 0;
 let amountOfUncheckedItems = 0;
 
-
 /**
  * Executing logic for append new To-Do item
  */
